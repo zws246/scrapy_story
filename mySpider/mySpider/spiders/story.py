@@ -1,6 +1,6 @@
 import scrapy
 
-from mySpider.mySpider.items import MyspiderItem
+from mySpider.items import MyspiderItem
 
 
 class StorySpider(scrapy.Spider):
